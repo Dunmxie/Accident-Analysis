@@ -1,4 +1,4 @@
 # Accident-Analysis
-Analyse and visualise the casualties caused by accidents and the current year showing their year on year growth rate
+Cleaned, analysed and visualised the casualties caused by accidents in the current year, showing the year-on-year growth rate
 
 ![Report Dashboard](images/Dashboard.png)
