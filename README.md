@@ -52,7 +52,7 @@ EDA was conducted to understand the distribution of casualties across various di
 - **Road Typology:** Assessing casualty concentration on single vs. dual carriageways.
 During this phase, I identified that fatal and serious accidents were declining at a faster rate (-35.6% and -14.5% respectively) than slight accidents (-10.9%), indicating that road safety interventions are effectively reducing high-impact collisions.
 
-> **[INSERT SCREENSHOT: Severity Breakdown Donut Chart showing 84.7% Slight, 13.8% Serious, and 1.5% Fatal]**
+![Chart](images/Casualties-Severity.png)
 
 ## Data Analysis (DAX)
 Core measures were developed to facilitate temporal comparisons
@@ -113,7 +113,7 @@ YoY Accidents =
 
 ## Insights
 
-![Report Dashboard](images/Dashboard.png)
+![Report Dashboard](images/Entire-Dashboard.png)
 
 Based on the analysis in the dashboard above, we draw that;
 
