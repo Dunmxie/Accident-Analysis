@@ -29,7 +29,9 @@ The goal was to transition raw accident records into a functional dashboard that
 - **Spatial Dynamics:** Compare Urban vs. Rural safety metrics to guide regional infrastructure investment.
 
 ## Data Modelling
-To ensure analytical integrity and scalability, I implemented a Star Schema centered on a primary accident fact table.  
+To ensure analytical integrity and scalability, I implemented a Star Schema centered on a primary accident fact table. 
+
+![Data Model](images/Model-view.png)
 
 - **Calendar Table:** A dedicated date table was engineered to support many-to-one relationships, enabling seamless time-intelligence queries.  
 
