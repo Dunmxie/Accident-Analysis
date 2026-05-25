@@ -138,4 +138,3 @@ Based on the analysis in the dashboard above, we draw that;
 
 ## References
 - Dataset: UK Road Accident Records 2021-2022 by Data Tutorials [Data](https://drive.google.com/drive/folders/1pCNs-TRPznlbAn712gAGy7XfBnWs2QJm)
-- Tutorial Guidance: Data Tutorials [Link](https://www.youtube.com/watch?v=Hn9f13uoLAQ&list=PL5qEzv6QDpxkQ8atDIxcs4_dFMkKeHOaM&index=9).
